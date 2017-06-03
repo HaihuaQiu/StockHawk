@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">股票雄鹰</string>
+    <string name="close">收市价格</string>
+    <string name="date">日期</string>
+    <string name="dialog_add">添加</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_hint">股票代码（如： GOOG）</string>
+    <string name="dialog_input">请输入股票代码</string>
+    <string name="dialog_title">添加股票</string>
+    <string name="error_no_network">没有网络！当有网络的时候，会自动加载股票。</string>
+    <string name="error_no_stocks">没有股票！请点击添加按钮进行添加。</string>
+    <string name="title_widget">今日股价</string>
+    <string name="toast_already_stock">股票%s没有被添加，屏幕已经存在此股票。</string>
+    <string name="toast_no_connectivity">当有网络时将刷新页面。</string>
+    <string name="toast_no_exist_stock">不存在此股票。</string>
+    <string name="toast_stock_added_no_connectivity">当有网络的时候，%s股票将被添加。</string>
+    <string name="toast_upadated_failure">对不起，更新失败！</string>
+    <string name="Historical_stock_name">%s股票的趋势图</string>
+</resources>
